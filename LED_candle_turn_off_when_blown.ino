@@ -21,6 +21,9 @@
  * and to smooth the value. You can monitor the voltage value or the          *
  * difference in the ratio by connecting to the plot monitor tool in the      *
  * Arduino IDE. After 2 seconds the LED turns on again.                       *
+ * The 3 mm plastic LED as to be grinded (only the plastic) to the smallest   *
+ * volume possible so that it’s mass is the smallest possible. In this way it *
+ * will cool rapidly when you blow fresh air over it.                         *
  * It works nicely. I made this small project for my daughter (12), with her  *
  * and my nephew (11). The small box is powered by a small USB power bank.    *
  ******************************************************************************
