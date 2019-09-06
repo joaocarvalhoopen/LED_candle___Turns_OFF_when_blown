@@ -9,7 +9,7 @@ The LED is always on and the ADC pin of the microcontroller is monitoring the vo
 It works nicely. I made this small project for my daughter (12), with her and my nephew (11). The small box is powered by a small USB power bank. <br> 
 
 ## Final built for my daughter
-![LED candle built](./image_LED_Candle_small.jpg?raw=true "LED candle built")
+![LED candle built](./image_LED_candle_small.jpg?raw=true "LED candle built")
 
 ## License
 MIT Open Source License.
